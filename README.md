@@ -12,4 +12,3 @@ The system looks like this:
 
 The aim of this project is to charge the battery in the portable power station when the solar panel feeds electricity into the power grid.
 If the solar panel does not feed enough energy into the power grid, then the portable power station will be switched off.
-
